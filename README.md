@@ -47,7 +47,7 @@ python3 main.py
 
 ## Demonstration Video
 
-Video link: To be added.
+Video link: https://youtu.be/VnFizWkpJcc?si=l0yxZDceV8-jDAes
 
 ## Author
 
